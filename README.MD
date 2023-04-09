@@ -5,7 +5,7 @@
 
 ### Useful links:
 
-* [Andrew Karpaty youtube videos](https://www.youtube.com/@AndrejKarpathy/videos)
+* [Andrew Karpaty youtube videos](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 
 ### Setup
